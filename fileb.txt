@@ -1,1 +1,1 @@
-"file B" 
+"file B - version 1" 
