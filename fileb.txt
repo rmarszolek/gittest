@@ -1,1 +1,1 @@
-"file B - version1 test branch " 
+"file B - version2 - master " 
